@@ -10,6 +10,7 @@
   "excludes": [
     "**/*-lock.json",
     "CODE_OF_CONDUCT.md",
+    "SUMMARY.md",
     "LICENSE"
   ],
   "plugins": [
