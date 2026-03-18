@@ -14,14 +14,14 @@ Swift Việt Nam.
 ## Đọc Sách Online
 
 Nội dung cuốn sách có sẵn trực tuyến tại:
-**[https://tuanemdev.github.io/](https://tuanemdev.github.io/)**
+**[https://openswiftxo.github.io/SwiftBook/](https://openswiftxo.github.io/SwiftBook/)**
 
 ## Đóng Góp
 
 Nội dung không thể tránh khỏi những thiếu sót và sai lầm. Nếu bạn phát hiện bất
 kỳ vấn đề nào hoặc muốn đóng góp cải thiện nội dung, xin vui lòng:
 
-- Tạo [issue](https://github.com/tuanemdev/tuanemdev.github.io/issues) để báo
+- Tạo [issue](https://openswiftxo.github.io/SwiftBook/issues) để báo
   cáo lỗi hoặc đề xuất nội dung mới
 - Đọc [hướng dẫn đóng góp](CONTRIBUTING.md) để biết cách tham gia phát triển dự
   án
