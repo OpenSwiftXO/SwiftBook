@@ -21,7 +21,7 @@ Nội dung cuốn sách có sẵn trực tuyến tại:
 Nội dung không thể tránh khỏi những thiếu sót và sai lầm. Nếu bạn phát hiện bất
 kỳ vấn đề nào hoặc muốn đóng góp cải thiện nội dung, xin vui lòng:
 
-- Tạo [issue](https://openswiftxo.github.io/SwiftBook/issues) để báo
+- Tạo [issue](https://github.com/OpenSwiftXO/SwiftBook/issues) để báo
   cáo lỗi hoặc đề xuất nội dung mới
 - Đọc [hướng dẫn đóng góp](CONTRIBUTING.md) để biết cách tham gia phát triển dự
   án
