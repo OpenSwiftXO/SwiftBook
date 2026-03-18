@@ -77,7 +77,7 @@ cargo binstall dprint
 ## Báo Lỗi hoặc Đề Xuất
 
 Nếu bạn phát hiện lỗi hoặc có đề xuất cải thiện, vui lòng tạo
-[issue](https://github.com/tuanemdev/tuanemdev.github.io/issues) mới
+[issue](https://github.com/OpenSwiftXO/SwiftBook/issues) mới
 
 ---
 
